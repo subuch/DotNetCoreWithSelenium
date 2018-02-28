@@ -5,7 +5,7 @@ Prior to .NET core sdk 2.0, microsoft doesn't support selenium. From dotnet core
 1. Open Chrome Browser
 2. Goto Google.com
 3. Search for a text,
-4. Goto Image, News. Video,Map
+4. Goto Image, News, Video,Map tabs
 5. CLose the browser
 
 
