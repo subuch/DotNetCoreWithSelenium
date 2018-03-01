@@ -12,7 +12,7 @@ Prior to .NET core sdk 2.0, microsoft doesn't support selenium. From dotnet core
 Prerequisite:
 1. dotnet SDK 2.0
 2. VS 2017
-3. Change the path of the Chrome Driver in your local machine before running it
+3. Change the path of the Chrome Driver in UnitTest1.cs before running it
 
 
 
